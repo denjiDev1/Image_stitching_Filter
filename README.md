@@ -79,7 +79,7 @@ pip install opencv-python matplotlib numpy
 
 | Image 0 | Image 1 | Image 2 |
 |---------|---------|---------|
-| ![](stitch0.jpg) | ![](stitch1.jpg) |
+| ![](stitch0.png) | ![](stitch1.png) |
 
 > ✅ Output is a wide stitched panorama with soft transitions at the overlaps.
 
